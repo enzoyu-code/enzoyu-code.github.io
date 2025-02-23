@@ -1,0 +1,20 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <!-- 老虎脸 -->
+  <circle cx="80" cy="80" r="60" fill="#f89d35"/>
+  <!-- 耳朵 -->
+  <path d="M40 40 L30 20 L50 30 Z" fill="#f89d35"/>
+  <path d="M120 40 L130 20 L110 30 Z" fill="#f89d35"/>
+  <!-- 眼睛 -->
+  <circle cx="60" cy="70" r="8" fill="white"/>
+  <circle cx="100" cy="70" r="8" fill="white"/>
+  <circle cx="60" cy="70" r="4" fill="black"/>
+  <circle cx="100" cy="70" r="4" fill="black"/>
+  <!-- 鼻子 -->
+  <circle cx="80" cy="85" r="5" fill="black"/>
+  <!-- 嘴巴 -->
+  <path d="M65 95 Q80 105 95 95" stroke="black" fill="none" stroke-width="2"/>
+  <!-- 条纹 -->
+  <path d="M50 40 Q65 60 50 80" stroke="black" fill="none" stroke-width="3"/>
+  <path d="M110 40 Q95 60 110 80" stroke="black" fill="none" stroke-width="3"/>
+  <path d="M70 100 Q80 110 90 100" stroke="black" fill="none" stroke-width="3"/>
+</svg> 
